@@ -5,5 +5,3 @@ Roblox
 Rust
 Apex Legends
 1v1 Lol
-
-(only ones tested)
